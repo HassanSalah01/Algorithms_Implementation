@@ -6,7 +6,7 @@
 <br> 
 
 
-# example :
+# Example :
 
 ## [-1,5,-3,7,2]
 
