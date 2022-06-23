@@ -12,7 +12,7 @@ class Stack{
         this.top--;
     }
     getPeek(){
-        return this.stk[top];
+        return this.stk[this.top];
     }
     getLength(){
         return this.top+1;
